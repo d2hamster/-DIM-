@@ -1,6 +1,7 @@
 title:hamster
 description:仓鼠添加整理
 
+
 // Redrix's Estoc - GodPVP (god-pvp)
 //notes: 仓鼠：新33排位脉冲，传承框架，有着82的AA。缺点是因为变焦倍率的缘故，近距离几乎没有反抗之力。 tags:god-pvp
 dimwishlist:item=3218364298&perks=4090651448,3142289711,2387244414,460017080,990298390

@@ -400,3 +400,8 @@ dimwishlist:item=3234363830&perks=3661387068,1087426260,1820235745,31345821
 dimwishlist:item=3234363830&perks=3661387068,1087426260,1820235745,831391274
 
 
+
+// VS Chill Inhibitor (pve)
+//notes: 仓鼠：（PVE）解决强迫症 tags:pve
+dimwishlist:item=1762785662&perks=3987942396,3078487919
+

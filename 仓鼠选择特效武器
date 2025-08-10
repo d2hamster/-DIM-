@@ -1,0 +1,31 @@
+title:仓鼠选择特效武器
+description:仓鼠选择的补充，很多特效、限定版本武器被棒鸡做成了独立枪械，在WL中没有，需要单独列出来。
+
+// Festival flight (god-pve)
+//notes: S，本框架产球被削弱以后，溅射伤害带来的手雷加成非常强力。如果你需要产球，那么羸弱能量球配上DEBUFF更好。 tags:god-pve
+dimwishlist:item=3977654524&perks=1017229899,831391274
+dimwishlist:item=3977654524&perks=923806249,243981275
+
+
+// FORTUNATE STAR (pve)
+//notes: B，不好用 tags:pve
+dimwishlist:item=591672323&perks=776531651,2048641572
+dimwishlist:item=591672323&perks=2360347339,555281244
+dimwishlist:item=591672323&perks=2360347339,555281244
+
+
+// FORTUNATE STAR (pvp,pve)
+//notes: 主打高射速 tags:pvp,pve
+dimwishlist:item=591672323&perks=201365942,3414324643
+
+
+// YEARTIDE APEX (pve)
+//notes: S，非常强力 tags:god-pve
+dimwishlist:item=2965080304&perks=243981275,3640170453
+
+
+// YEARTIDE APEX (pve)
+//notes: A，非常强力 tags:god-pve
+dimwishlist:item=2965080304&perks=3017780555,4293542123
+dimwishlist:item=2965080304&perks=3017780555,3640170453
+dimwishlist:item=2965080304&perks=243981275,4293542123

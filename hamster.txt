@@ -2914,6 +2914,16 @@ dimwishlist:item=4019651319&perks=3798852852,2822142346,3523296417,243981275
 dimwishlist:item=4019651319&perks=3525010810,2822142346,3523296417,243981275
 
 
+// Festival Flight (god-pve)
+//notes: 区域据止框架的产球变差了，但是手雷却意外地回转起来。 tags:god-pve
+dimwishlist:item=4019651319&perks=1017229899,831391274
+
+
+// Festival Flight (god-pve)
+//notes: DEBUFF时间会继续计算羸弱能量球的生效 tags:god-pve
+dimwishlist:item=4019651319&perks=923806249,243981275
+
+
 // Festival Flight (pve)
 //notes: 这画风给我干哪了？补伤害用。 tags:pve
 dimwishlist:item=4019651319&perks=1441682018,2822142346,1017229899,831391274

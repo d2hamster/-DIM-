@@ -2,9 +2,11 @@ title:仓鼠选择特效武器
 description:仓鼠选择的补充，很多特效、限定版本武器被棒鸡做成了独立枪械，在WL中没有，需要单独列出来。
 
 // Festival flight (god-pve)
-//notes: S，本框架产球被削弱以后，溅射伤害带来的手雷加成非常强力。如果你需要产球，那么羸弱能量球配上DEBUFF更好。 tags:god-pve
+//notes: S，本框架产球被削弱以后，溅射伤害带来的手雷加成非常强力，其中狂乱的强化版可以让框架特效持续时间增长。如果你需要产球，那么羸弱能量球配上DEBUFF更好，相较于传统的爆破专家组合，已经没有那么强力了。 tags:god-pve
 dimwishlist:item=3977654524&perks=1017229899,831391274
 dimwishlist:item=3977654524&perks=923806249,243981275
+dimwishlist:item=3977654524&perks=1017229899,4104185692
+dimwishlist:item=3977654524&perks=3523296417,243981275
 
 
 // FORTUNATE STAR (pve)
